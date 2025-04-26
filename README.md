@@ -1,7 +1,6 @@
 # Credict--Card-fraud-detection# 💳 Credit Card Fraud Detection Using Logistic Regression
 
-![Credit Card Fraud Detection](https://img.freepik.com/free-photo/top-view-handcuffs-credit-cards-laptop_23-2148564170.jpg)  
-*Image Source: [Freepik](https://www.freepik.com/free-photo/top-view-handcuffs-credit-cards-laptop_1241393.htm)*
+![Credit Card Fraud Detection](https://media2.dev.to/dynamic/image/width%3D1080%2Cheight%3D1080%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5e8cdchblxsq5p386si0.png)  
 
 ---
 
@@ -64,5 +63,5 @@ The model is trained to distinguish between legitimate and fraudulent transactio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-logistic.git
+   git clone https://github.com/anchal-mahunta/Credict--Card-Fraud-detection.git
    cd credit-card-fraud-logistic
